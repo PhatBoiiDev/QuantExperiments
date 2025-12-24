@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6929c1e-480c-4c97-8606-a9b0e980cc8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/MonteCarloStockPrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/OptionPricesMonteCarlo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/VaRImplementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/VaRMC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/BlackScholes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/CAPM/CAPM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/CAPM/CAPM_Exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/CouponBond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/GeomRandomWalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/MarkowitzModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek/OrnsteinUhlenbeckProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek/VasicekBonds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek/VasicekModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/WienerProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/ZeroCouponBond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/finance-charts-apple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/plotlyCandlesticks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PricingModels/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/PyBasics/basics.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32CfLPYYF4GLO1NiNdep1YugVaX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.BlackScholes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CAPM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CAPM_Exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CouponBond.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GeomRandomWalk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MarkowitzModel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MonteCarloStockPrices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OptionPricesMonteCarlo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OrnsteinUhlenbeckProcess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VaRImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VaRMC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VasicekBonds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VasicekModel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WienerProcess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ZeroCouponBond.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plotlyCandlesticks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/josh/PycharmProjects/Udemy - Quant Finance, Algorithmic Trading in Python/venv/PricingModels/candlesticksExperiment&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+      <recent name="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek" />
+      <recent name="$PROJECT_DIR$/venv/PricingModels/CAPM" />
+      <recent name="$PROJECT_DIR$/venv/MonteCarlo" />
+      <recent name="$PROJECT_DIR$/venv/PricingModels" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.VaRMC">
+    <configuration name="MarkowitzModel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/PricingModels" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/PricingModels/MarkowitzModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MonteCarloStockPrices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/MonteCarlo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/MonteCarlo/MonteCarloStockPrices.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OptionPricesMonteCarlo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/MonteCarlo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/MonteCarlo/OptionPricesMonteCarlo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VaRMC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/MonteCarlo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/MonteCarlo/VaRMC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plotlyCandlesticks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/plotlyCandlesticks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.VaRMC" />
+        <item itemvalue="Python.MonteCarloStockPrices" />
+        <item itemvalue="Python.OptionPricesMonteCarlo" />
+        <item itemvalue="Python.plotlyCandlesticks" />
+        <item itemvalue="Python.MarkowitzModel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6929c1e-480c-4c97-8606-a9b0e980cc8e" name="Changes" comment="" />
+      <created>1756929418870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756929418870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

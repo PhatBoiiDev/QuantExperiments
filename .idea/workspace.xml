@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6929c1e-480c-4c97-8606-a9b0e980cc8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/MonteCarloStockPrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/OptionPricesMonteCarlo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/VaRImplementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/MonteCarlo/VaRMC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/BlackScholes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/CAPM/CAPM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/CAPM/CAPM_Exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/CouponBond.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/GeomRandomWalk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/MarkowitzModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek/OrnsteinUhlenbeckProcess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek/VasicekBonds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek/VasicekModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/WienerProcess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/ZeroCouponBond.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/finance-charts-apple.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/plotlyCandlesticks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PricingModels/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/PyBasics/basics.py" afterDir="false" />
+    <list default="true" id="e6929c1e-480c-4c97-8606-a9b0e980cc8e" name="Changes" comment="made some changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,40 +30,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.BlackScholes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CAPM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CAPM_Exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CouponBond.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GeomRandomWalk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MarkowitzModel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MonteCarloStockPrices.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OptionPricesMonteCarlo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OrnsteinUhlenbeckProcess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VaRImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VaRMC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VasicekBonds.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VasicekModel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WienerProcess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ZeroCouponBond.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.plotlyCandlesticks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/josh/PycharmProjects/Udemy - Quant Finance, Algorithmic Trading in Python/venv/PricingModels/candlesticksExperiment&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.BlackScholes.executor": "Run",
+    "Python.CAPM.executor": "Run",
+    "Python.CAPM_Exercise.executor": "Run",
+    "Python.CouponBond.executor": "Run",
+    "Python.GeomRandomWalk.executor": "Run",
+    "Python.MarkowitzModel.executor": "Run",
+    "Python.MonteCarloStockPrices.executor": "Run",
+    "Python.OptionPricesMonteCarlo.executor": "Run",
+    "Python.OrnsteinUhlenbeckProcess.executor": "Run",
+    "Python.VaRImplementation.executor": "Run",
+    "Python.VaRMC.executor": "Run",
+    "Python.VasicekBonds.executor": "Run",
+    "Python.VasicekModel.executor": "Run",
+    "Python.WienerProcess.executor": "Run",
+    "Python.ZeroCouponBond.executor": "Run",
+    "Python.basics.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.plotlyCandlesticks.executor": "Run",
+    "Python.testing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/josh/PycharmProjects/Udemy - Quant Finance, Algorithmic Trading in Python/venv/PricingModels/candlesticksExperiment",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JavaScript&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment" />
@@ -236,6 +212,15 @@
       <option name="presentableId" value="Default" />
       <updated>1756929418870</updated>
     </task>
+    <task id="LOCAL-00001" summary="made some changes">
+      <option name="closed" value="true" />
+      <created>1766617859390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766617859390</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,5 +245,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some changes" />
   </component>
 </project>

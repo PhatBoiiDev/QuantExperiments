@@ -39,7 +39,7 @@ def export_data(dataset):
 # Displays dataset as a candlestick chart from Plotly
 def display_chart(dataset):
     plot = go.Figure(data=[go.Candlestick(x=dataset['date'], open=dataset['open'], high=dataset['high'], low=dataset['low'], close=dataset['close'])])
-    plot.update_layout(title=f'{stock}Candlestick Price', xaxis_rangeslider_visible=False)
+    plot.update_layout(title=f'{stock} Candlestick Price', xaxis_rangeslider_visible=False)
 
     # filename = f'{stock}_candlesticks.html'
     # plot.write_html(filename)

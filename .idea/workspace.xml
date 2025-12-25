@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6929c1e-480c-4c97-8606-a9b0e980cc8e" name="Changes" comment="made some changes">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/plotlyCandlesticks.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment/plotlyCandlesticks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   },
@@ -248,7 +246,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756929418870</updated>
-      <workItem from="1766625185153" duration="1207000" />
+      <workItem from="1766625185153" duration="1576000" />
     </task>
     <task id="LOCAL-00001" summary="made some changes">
       <option name="closed" value="true" />
@@ -266,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766618642062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="made some changes">
+      <option name="closed" value="true" />
+      <created>1766626709040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766626709040</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +289,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -300,11 +306,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="made some changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QuantExperiments$testing.coverage" NAME="testing Coverage Results" MODIFIED="1766626465891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment" />
     <SUITE FILE_PATH="coverage/QuantExperiments$WienerProcess.coverage" NAME="WienerProcess Coverage Results" MODIFIED="1766626210561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels" />
-    <SUITE FILE_PATH="coverage/QuantExperiments$CAPM.coverage" NAME="CAPM Coverage Results" MODIFIED="1766626231820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/CAPM" />
     <SUITE FILE_PATH="coverage/QuantExperiments$MonteCarloStockPrices.coverage" NAME="MonteCarloStockPrices Coverage Results" MODIFIED="1766625809970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/MonteCarlo" />
+    <SUITE FILE_PATH="coverage/QuantExperiments$VasicekBonds.coverage" NAME="VasicekBonds Coverage Results" MODIFIED="1766626441337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek" />
+    <SUITE FILE_PATH="coverage/QuantExperiments$CAPM_Exercise.coverage" NAME="CAPM_Exercise Coverage Results" MODIFIED="1766626496546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/CAPM" />
     <SUITE FILE_PATH="coverage/QuantExperiments$plotlyCandlesticks.coverage" NAME="plotlyCandlesticks Coverage Results" MODIFIED="1766626360897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/candlesticksExperiment" />
-    <SUITE FILE_PATH="coverage/QuantExperiments$VaRMC.coverage" NAME="VaRMC Coverage Results" MODIFIED="1766626166699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/MonteCarlo" />
+    <SUITE FILE_PATH="coverage/QuantExperiments$MarkowitzModel.coverage" NAME="MarkowitzModel Coverage Results" MODIFIED="1766626605917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels" />
+    <SUITE FILE_PATH="coverage/QuantExperiments$CAPM.coverage" NAME="CAPM Coverage Results" MODIFIED="1766626488829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/CAPM" />
+    <SUITE FILE_PATH="coverage/QuantExperiments$VasicekModel.coverage" NAME="VasicekModel Coverage Results" MODIFIED="1766626436311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek" />
+    <SUITE FILE_PATH="coverage/QuantExperiments$OrnsteinUhlenbeckProcess.coverage" NAME="OrnsteinUhlenbeckProcess Coverage Results" MODIFIED="1766626452453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels/OU and Vasicek" />
+    <SUITE FILE_PATH="coverage/QuantExperiments$VaRMC.coverage" NAME="VaRMC Coverage Results" MODIFIED="1766626525816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/MonteCarlo" />
     <SUITE FILE_PATH="coverage/QuantExperiments$GeomRandomWalk.coverage" NAME="GeomRandomWalk Coverage Results" MODIFIED="1766626176532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PricingModels" />
   </component>
 </project>
